@@ -1,8 +1,42 @@
 fileFormatVersion: 2
-guid: 921dc7542a47047409ad316fc9157e48
+guid: 4659fdebb6e709f4e907e0699c41d922
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Background_0
+    21300000: SNES - Super Mario World - Backgrounds_0
+    21300002: SNES - Super Mario World - Backgrounds_1
+    21300004: SNES - Super Mario World - Backgrounds_2
+    21300006: SNES - Super Mario World - Backgrounds_3
+    21300008: SNES - Super Mario World - Backgrounds_4
+    21300010: SNES - Super Mario World - Backgrounds_5
+    21300012: SNES - Super Mario World - Backgrounds_6
+    21300014: SNES - Super Mario World - Backgrounds_7
+    21300016: SNES - Super Mario World - Backgrounds_8
+    21300018: SNES - Super Mario World - Backgrounds_9
+    21300020: SNES - Super Mario World - Backgrounds_10
+    21300022: SNES - Super Mario World - Backgrounds_11
+    21300024: SNES - Super Mario World - Backgrounds_12
+    21300026: SNES - Super Mario World - Backgrounds_13
+    21300028: SNES - Super Mario World - Backgrounds_14
+    21300030: SNES - Super Mario World - Backgrounds_15
+    21300032: SNES - Super Mario World - Backgrounds_16
+    21300034: SNES - Super Mario World - Backgrounds_17
+    21300036: SNES - Super Mario World - Backgrounds_18
+    21300038: SNES - Super Mario World - Backgrounds_19
+    21300040: SNES - Super Mario World - Backgrounds_20
+    21300042: SNES - Super Mario World - Backgrounds_21
+    21300044: SNES - Super Mario World - Backgrounds_22
+    21300046: SNES - Super Mario World - Backgrounds_23
+    21300048: SNES - Super Mario World - Backgrounds_24
+    21300050: SNES - Super Mario World - Backgrounds_25
+    21300052: SNES - Super Mario World - Backgrounds_26
+    21300054: SNES - Super Mario World - Backgrounds_27
+    21300056: SNES - Super Mario World - Backgrounds_28
+    21300058: SNES - Super Mario World - Backgrounds_29
+    21300060: SNES - Super Mario World - Backgrounds_30
+    21300062: SNES - Super Mario World - Backgrounds_31
+    21300064: SNES - Super Mario World - Backgrounds_32
+    21300066: SNES - Super Mario World - Backgrounds_33
+    21300068: SNES - Super Mario World - Backgrounds_34
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -48,7 +82,7 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -72,7 +106,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: 4
     textureCompression: 1
@@ -96,13 +130,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Background_0
+      name: SNES - Super Mario World - Backgrounds_0
       rect:
         serializedVersion: 2
-        x: 267
-        y: 917
-        width: 255
-        height: 213
+        x: 7
+        y: 2680
+        width: 512
+        height: 432
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -110,7 +144,687 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b723054882c8d8f40ac13e2295376f98
+      spriteID: c844041da1c40e34bafee0a634a0ffae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_1
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2680
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65aee16127c4e864eb65c4a1e82bd841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_2
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 2680
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5efceaec329364dabc638922779eeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_3
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 2680
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76d94f653a04a442a0c8aa5c0255ad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_4
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 2680
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c3ee34c271c4b49b427444339496c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2242
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3a5eef4642f364ebcda655c43cecd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2242
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e510f868ded89ae42b018e9acdbe7b3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_7
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 2242
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb04d8ac4713e5439f02b658e027358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_8
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 2242
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ef78099ada0bf4f8167c036fdd315a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_9
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 2242
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a271a45913b6b4793cae02fbb16e16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1804
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458a7b5ed25144342a22b6daecdb4721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1804
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d022d8aa40a32048bf6f5384e23f4e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_12
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1804
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156936258a7b4ed4f86451c49e4df0bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_13
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1804
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de6522821b7ce54e906f6d5c277afee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_14
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1804
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a35fbbcc244e5d4db558fd60062439f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1366
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbb77eff2f99324eacc2720cb8c421f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1366
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1445fe27de1152e42a4623e216b144f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_17
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1366
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c53647a61f9344e854482e8b369a34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_18
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1366
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b38785e791fa8448cc57d58b21180b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_19
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1366
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4cc15148be4e64b902505503aecff8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 928
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfda23d119a6fd49a976bd89cfda7c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_21
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 928
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01a022b5db68d0499e924b65f3db3a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_22
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 928
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7a24d9b6a80ab4e9c8c477496ce2cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_23
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 928
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e586f55a66c66c47bfbd3645be78508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_24
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 928
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90280c52ac95636489b6146503921685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 490
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f156e4a5dfb2241bc4940d8e573cb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_26
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 490
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc3cf77788b36945bb13cbf1f204335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_27
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 490
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebd48e607e615e4a9237e3a33cfe94c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_28
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 490
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b12878b42e9774b8cc3ebce6e26e9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_29
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 490
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0efdaeed35de54b8be884bf706b24b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 52
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e9fff9780223a46a238531561ff6ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_31
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 52
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81472ed6a079f624998c6e823909f3a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_32
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 52
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebc8c8407ea82b4fbf696cae1fd7e06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_33
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 52
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30bcc228f751e646af4e379fac7d339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Backgrounds_34
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 52
+        width: 512
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f4f09aa372012489258d0ed84bc089
       vertices: []
       indices: 
       edges: []
@@ -118,7 +832,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 7ead95855f852b641a407ee19fbc1e40
+    spriteID: 08081a529b54f1a4583c421dbcd0661c
     vertices: []
     indices: 
     edges: []

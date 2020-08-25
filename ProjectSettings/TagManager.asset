@@ -13,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Platforms
+  - Enemies
+  - Item
+  - Confiner
   - 
   - 
   - 
@@ -43,4 +43,16 @@ TagManager:
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Tile
+    uniqueID: 417309339
+    locked: 0
+  - name: Sprite
+    uniqueID: 3327569375
+    locked: 0
+  - name: Player
+    uniqueID: 1277514687
+    locked: 0
+  - name: UI
+    uniqueID: 2473600041
     locked: 0
